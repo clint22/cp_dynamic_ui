@@ -1,5 +1,5 @@
 <h1 align="center">Dynamic UI</h1>
-<p align="center"> The app fetches network details from a separate library and generates a dynamic layout.</p>
+<p align="center"> 🚀 The app fetches network details from a separate library and generates a dynamic layout.</p>
 
 ### Architecture and working 
 
